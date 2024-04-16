@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.header {
+  background-color: #B5C18E;
+  margin: 0;
+}
+
+.UpperBody {
+  background-color: #F7DCB9;
+}
+
+.LowerBody {
+  background-color: #DEAC80;
+}
+
+.Footer {
+  background-color: #B99470;
+}
