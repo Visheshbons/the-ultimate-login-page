@@ -34,7 +34,7 @@ function login() {
     if (userAt === window["username" + i]) {
 
       if (passAt === window["password" + i]) {
-        window.location.href = "file:///C:/Users/Sivar/Desktop/Atom%20Coder/Useful%20websites/Riddle%20Page/User" + i + "/home.html";
+        window.location.href = "https://visheshbons.github.io/the-ultimate-login-page/User" + i + "/home.html";
         return;
       } else {
         alert("The password '" + passAt + "' is incorrect.");
